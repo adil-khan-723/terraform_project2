@@ -1,0 +1,12 @@
+# Terraform
+.terraform/
+terraform.tfstate
+terraform.tfstate.*
+.crash.log
+
+# Variable files (keep example only)
+*.tfvars
+!terraform.tfvars.example
+
+# OS
+.DS_Store
