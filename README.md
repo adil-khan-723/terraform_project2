@@ -280,10 +280,4 @@ Built as part of a structured Terraform and DevOps learning journey.
 
 ---
 
-## License
-
-This project is open source and available for educational purposes.
-
----
-
 **Happy Learning! 🚀**
